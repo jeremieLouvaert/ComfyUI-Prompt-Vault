@@ -1,0 +1,13 @@
+[project]
+name = "comfyui-prompt-vault"
+description = "Photographic prompt arsenal — curated templates and component builder with real camera gear, lighting, film stocks"
+version = "1.0.0"
+license = { file = "LICENSE" }
+
+[project.urls]
+Repository = "https://github.com/jeremieLouvaert/ComfyUI-Prompt-Vault"
+
+[tool.comfy]
+PublisherId = "jeremieLouvaert"
+DisplayName = "ComfyUI Prompt Vault"
+Icon = ""
