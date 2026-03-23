@@ -8,6 +8,6 @@ license = { file = "LICENSE" }
 Repository = "https://github.com/jeremieLouvaert/ComfyUI-Prompt-Vault"
 
 [tool.comfy]
-PublisherId = "jeremieLouvaert"
+PublisherId = "akurate"
 DisplayName = "ComfyUI Prompt Vault"
 Icon = ""
